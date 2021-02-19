@@ -15,3 +15,9 @@ The goal here is to implement simple quantum circuit simulator. It is expected t
 ## Solution
 
 My solution uses numpy and sympy in order to create a generalized program for creating Quantum Circuits and custom Quantum Gates (both unitaries and controlled unitaries). The solution also allows the creation of parametric gates, using sympy for allowing string inputs and handling them symbolically. The string inputs can later be bound to a numeric value using a function, in order to perform measurements on the parametric circuit.
+
+## Author
+
+Author: Kartikeya Rambhatla
+
+Date: 19 February, 2021
